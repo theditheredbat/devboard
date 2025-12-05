@@ -10,4 +10,4 @@ Schematic:
 PCB:  
 ![image](./images/PCB.png)
 ## BOM
-BOM in PRODUCTION folder
+BOM in PRODUCTION/files folder

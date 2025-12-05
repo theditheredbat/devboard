@@ -6,8 +6,8 @@ Here's what I ended up with:
 ## PCB
 Made in KiCAD
 Schematic:
-![image](./image/SCHEMATIC.png)
+![image](./images/SCHEMATIC.png)
 PCB:
-![image](./image/PCB.png)
+![image](./images/PCB.png)
 ## BOM
 BOM in PRODUCTION folder

@@ -10,7 +10,7 @@ Schematic:
 PCB:  
 ![image](./images/PCB.png)
 ## BOM
-1x [RP2040](https://www.pishop.us/product/raspberry-pi-rp2040/?src=raspberrypi) $1  
+1x [RP2040](https://jlcpcb.com/partdetail/RaspberryPi-RP2040/C2040) $0.92  
 1x [PCB](https://cart.jlcpcb.com/quote?spm=Jlcpcb.Homepage.1006) from JLCPCB $2.10  
 2x [33pF Capacitors](https://jlcpcb.com/partdetail/1914-0402CG330J500NT/C1562) $0.01  
 11x [0.1uF Capacitors](https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525) $0.01  
@@ -25,7 +25,7 @@ PCB:
 1x [4Pin 2x2.5mm Quartz Clock](https://jlcpcb.com/partdetail/YXC_CrystalOscillators-X322512MSB4SI/C9002) $0.06  
 1x [USB-C Receptacle](https://jlcpcb.com/partdetail/Korean_HropartsElec-TYPE_C_31_M12/C165948) $0.17  
 1x [TS-1088-AR02016 Push Button](https://jlcpcb.com/partdetail/XUNPU-TS_1088AR02016/C720477) $0.04  
-1x [MCP1700x-330xxTT Fixed Voltage Regulator](https://jlcpcb.com/partdetail/JLCPCBAssembly-MCP1700/C9900006637) ~$0.0006 -> $0.01  
+1x [MCP1700x-330xxTT Fixed Voltage Regulator](https://jlcpcb.com/partdetail/JLCPCBAssembly-MCP1700/C9900006637) $0.39
 1x [W25Q16JVZPIQ TR Flash Mem Chip](https://jlcpcb.com/partdetail/WinbondElec-W25Q16JVZPIQ/C377853) $0.35  
-Estimated Shipping: $2.40 (JLCPCB) + $6.44(PiShop)  
-Estimated Total: $12.89
+Estimated Shipping: $2.40
+Estimated Total: $6.92

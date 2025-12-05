@@ -27,5 +27,5 @@ PCB:
 1x [TS-1088-AR02016 Push Button](https://jlcpcb.com/partdetail/XUNPU-TS_1088AR02016/C720477) $0.04  
 1x [MCP1700x-330xxTT Fixed Voltage Regulator](https://jlcpcb.com/partdetail/JLCPCBAssembly-MCP1700/C9900006637) ~$0.0006 -> $0.01  
 1x [W25Q16JVZPIQ TR Flash Mem Chip](https://jlcpcb.com/partdetail/WinbondElec-W25Q16JVZPIQ/C377853) $0.35  
-Estimated Shipping: $2.40 (JLCPCB) + $6.44(PiShop)
+Estimated Shipping: $2.40 (JLCPCB) + $6.44(PiShop)  
 Estimated Total: $12.89

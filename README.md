@@ -25,7 +25,7 @@ PCB:
 1x [4Pin 2x2.5mm Quartz Clock](https://jlcpcb.com/partdetail/YXC_CrystalOscillators-X322512MSB4SI/C9002) $0.06  
 1x [USB-C Receptacle](https://jlcpcb.com/partdetail/Korean_HropartsElec-TYPE_C_31_M12/C165948) $0.17  
 1x [TS-1088-AR02016 Push Button](https://jlcpcb.com/partdetail/XUNPU-TS_1088AR02016/C720477) $0.04  
-1x [MCP1700x-330xxTT Fixed Voltage Regulator](https://jlcpcb.com/partdetail/JLCPCBAssembly-MCP1700/C9900006637) $0.39
+1x [MCP1700x-330xxTT Fixed Voltage Regulator](https://jlcpcb.com/partdetail/JLCPCBAssembly-MCP1700/C9900006637) $0.39  
 1x [W25Q16JVZPIQ TR Flash Mem Chip](https://jlcpcb.com/partdetail/WinbondElec-W25Q16JVZPIQ/C377853) $0.35  
 Estimated Shipping: $2.40
 Estimated Total: $6.92
